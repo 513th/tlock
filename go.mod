@@ -44,3 +44,5 @@ require (
 	google.golang.org/grpc v1.53.0 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
 )
+
+replace github.com/drand/tlock => github.com/513th/tlock v0.0.1
